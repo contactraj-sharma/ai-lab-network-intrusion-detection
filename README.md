@@ -82,8 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 # Citations
 If you use the source code or implement KitNET, please cite the following paper:
 
-*Yisroel Mirsky, Tomer Doitshman, Yuval Elovici, and Asaf Shabtai, "Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection", Network and Distributed System Security Symposium 2018 (NDSS'18)*
+for more information or collaboration , please email as given below
 
-Yisroel Mirsky
-yisroel@post.bgu.ac.il
-
+Name : Raj Sharma , CEO at CyberPulse Ltd (www.cyberpulseai.com) and Course Director - AI For Cyber Security at Oxford University Email : raj.sharma@cyberpulseai.com , LinkedIn : www.linkedin.com/in/contact-raj-sharma
