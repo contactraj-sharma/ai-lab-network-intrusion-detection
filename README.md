@@ -79,9 +79,7 @@ https://goo.gl/iShM7E
 # License
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
 
-# Citations
-If you use the source code or implement KitNET, please cite the following paper:
 
-for more information or collaboration , please email as given below
+for more information or collaboration,
 
-Name : Raj Sharma , CEO at CyberPulse Ltd (www.cyberpulseai.com) and Course Director - AI For Cyber Security at Oxford University Email : raj.sharma@cyberpulseai.com , LinkedIn : www.linkedin.com/in/contact-raj-sharma
+Name : Raj Sharma , CEO at CyberPulse Ltd and Course Director - AI For Cyber Security at Oxford University Email : raj.sharma@cyberpulseai.com , LinkedIn : www.linkedin.com/in/contact-raj-sharma
